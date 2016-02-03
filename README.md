@@ -1,2 +1,2 @@
 # Operating-System-Projects
-Cornell CS 4410 
+Spring 2016, CS 4410 Projects
