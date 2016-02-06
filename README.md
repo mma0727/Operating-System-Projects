@@ -1,6 +1,9 @@
 CS4411
 ======
-This is your CS4411 project repository. You will use this repository to collaborate with your team members, develop your code, and submit assignments.
+This is your CS4411 project repository. You will use this repository to collaborate with your team members, develop your code, and submit assignments. The contents of the folders in your repository are described below:
+
+    portos/ # contains all of the portos related files (P1-P4 and P6)
+    docs/   # contains each of the project writeups
 
 ## Git
 Git is an essential part of this class and we will be using it heavily for all the assignments. If you are not already familiar with Git, we highly suggest trying some [tutorials](https://try.github.io). You will need to install Git on your machine by using either the [Github Desktop](https://desktop.github.com/) app or one of the binaries from [here](https://git-scm.com/downloads).
@@ -37,6 +40,7 @@ To get started, run the following:
 
     # To turn off the VM when you're done, run the following
     $ vagrant halt
+
 
 ## Academic Integrity
 Students are prohibited from sharing code with anyone that is not in their group or on the course staff. This includes making public forks of your repository or otherwise hosting it in a public location. Students are prohibited from rewriting Git history or otherwise attempting to change tags created by the course staff. We maintain copies of all the repositories and can easily detect when history has been modified (this includes force pushes) and any student found to be in violation of the [academic integrity policy](http://www.theuniversityfaculty.cornell.edu/AcadInteg/) will be reported to the university.
