@@ -29,8 +29,9 @@ To get started, run the following:
     $ vagrant up
     $ vagrant ssh
 
-    # At this point, you are inside the VM and can compile and test your code
-    <vm>$ cd /code
+    # At this point, you are inside the VM and can compile and test your code which
+    # is available in your home directory.
+    <vm>$ cd ~/portos
     <vm>$ <run your code>
     <vm>$ exit
 
